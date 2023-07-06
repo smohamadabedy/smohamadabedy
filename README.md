@@ -2,6 +2,7 @@
 
 **Mechanical Engineer, AI Enthusiast and polyglot developer**
 
+![GitHub Repo stars](https://img.shields.io/github/stars/ankidroid/Anki-Android?style=social)
 
 ### Languages
 [![My Skills](https://skillicons.dev/icons?i=php,python,django,java,go,js,jquery,vue,react,html,css)](https://skillicons.dev)
