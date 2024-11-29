@@ -4,7 +4,7 @@
 
 
 ### Languages
-[![My Skills](https://skillicons.dev/icons?i=php,python,django,java,go,js,jquery,vue,react,html,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=php,python,django,java,kotlin,go,js,jquery,vue,react,html,css)](https://skillicons.dev)
 
 ### contact me
 <p align="left">
