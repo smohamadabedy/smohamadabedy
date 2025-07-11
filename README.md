@@ -7,7 +7,9 @@
 [![My Skills](https://skillicons.dev/icons?i=php,python,django,java,kotlin,go,js,jquery,vue,react,html,css)](https://skillicons.dev)
 
 ### contact me
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/seyed-mohammad-hosien-abedy-nejad-7a2248b4/)
+<p align="left">
+<a href="https://www.linkedin.com/in/seyed-mohammad-hosien-abedy-nejad-7a2248b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="diorfunn" height="28"  /></a>
+</p>
 
 
 
